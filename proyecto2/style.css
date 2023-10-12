@@ -1,0 +1,32 @@
+body{
+    margin:30px;    
+    background-image: url(./logo-bank.avif);
+    text-align: center;
+    
+}
+
+
+h1{
+    color: blueviolet;   
+    background-color: #89def8;
+    margin: 15px;
+    padding: 15px;
+    border-radius: 100vw;    
+}
+
+.uno{
+    border-radius: 5px;
+    margin: 50px 550px;
+    height: 140px;
+    background: rgb(236, 121, 121);
+    color: rgb(76, 247, 76);
+    padding: 10px;
+    display: inline-block;    
+}
+
+.in {
+    height:15px;
+}
+input:hover {
+    border: 4px solid rgb(247, 247, 167);
+}
